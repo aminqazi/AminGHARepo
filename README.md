@@ -1,7 +1,9 @@
 # GitHub Actions Fundamentals
 
 Repo for the `GitHub Actions Fundamentals` training.
-🔥
+🔥 
+🛰️
+
 ## 👉 Objectives
 
 - Understand the __basic components__ and vocabulary of GitHub Actions
